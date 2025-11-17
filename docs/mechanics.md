@@ -67,7 +67,7 @@ If a character is attempting to install the cyberware on themselves, the above t
 
 If a character is attempting to install cyberware in the field and not in a medical or laboratory setting, follow the steps above, but increase the difficulty by an additional 2.
 
-If any of the above tests fail, the cyberware is not installed, but the character still receives Aggravated Damage equal to the Cyberware Density of the attempted install.
+If any of the above tests fail, the cyberware is not installed, but the character still receives Aggravated damage equal to the Cyberware Density of the attempted install.
 
 Failing the Medicine test could result in temporary (for vampires) or permanent (for mortals) loss of Attribute dots equal to the level of Cyberware Density of the cyberware involved in the failed test. A failed Medicine test on a cybernetic arm meant to accentuate Strength could damage a Physical Attribute, whereas a failed neural processor installation could damage a Social or Mental Attribute.
 
@@ -104,7 +104,7 @@ Unless the assailant made a Called Shot (see **Vampire: the Masquerade: 5th Ed C
 
 > Her character has 5 Health boxes and currently suffers from five levels of Superficial damage. Since each box of her Health tracker is filled, she is considered to be Impaired. Any additional damage to her person will also cause damage to her cyberware. 
 
-> She takes six additional Superficial damage, which, after being halved, converts three of her Health tracker's Superficial damage to Aggravated Damage and also causes three levels of Cyberware Damage.
+> She takes six additional Superficial damage, which, after being halved, converts three of her Health tracker's Superficial damage to Aggravated damage and also causes three levels of Cyberware Damage.
 
 > She decides to allocate 1 Cyberware Damage to each piece: the damage to her neural processor causes her to lose access to one of the chip slots she has installed, as well as destroying the chip installed in that slot; the damage to her arm causes her to lose 1 dot in Potence, which also causes her to lose access to a level three Potence power; the damage to her leg causes her to lose the +2 bonus to her Dexterity and the +1 to her Armor.
 

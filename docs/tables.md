@@ -33,8 +33,8 @@ Would be helpful to only include finished ones, could have WIP ones elsewhere in
 |------------------------|--------|
 | **Upgrades, People, Upgrades!** | <ul><li>Compulsion to get more cyberware.</li><li> The character subtracts a number of dice equal to half of their Cyberware Density from all dice pools until a new piece of cyberware with a minimum Cyberware Density of 1 has been installed.</li></ul> |
 | **What Have I Become?** | <ul><li>Compulsion to lighten the cybernetic load.</li><li>The character subtracts a number of dice equal to half of their Cyberware Density rounded up from all dice pools until a piece of cyberware with a minimum Cyberware Density of 1 has been removed from their body and destroyed.</li> |
-| **Can’t Trust These Damn Computers** | <ul><li>The character’s cyberware fails in some catastrophic way.</li><li>The cyberware takes an amount of damage equal to half the character’s total Cyberware Density, rounded up (see Damaging, Targeting, or Destroying Cyberware).</li>|
-| **Hot, Hot!** | <ul><li>The character pushes their cyberware beyond its limit, causing it to overheat within their body and cause severe harm.</li><li>The character takes 1 level of Aggravated Damage equal to half their Cyberware Density rounded up and cannot use the cyberware which caused the Compulsion again for the remainder of the scene.</li> |
+| **Can’t Trust These Damn Computers** | <ul><li>The character’s cyberware fails in some catastrophic way.</li><li>The cyberware takes an amount of Aggravated damage equal to one-third of the character’s total Cyberware Density, rounded up (see Damaging, Targeting, or Destroying Cyberware).</li>|
+| **Hot, Hot!** | <ul><li>The character pushes their cyberware beyond its limit, causing it to overheat within their body and cause severe harm.</li><li>The character takes 1 level of Aggravated damage equal to half their Cyberware Density rounded up and cannot use the cyberware which caused the Compulsion again for the remainder of the scene.</li> |
 | **Mental Boom** | <ul><li>The character dissociates, experiencing vivid, horrifying hallucinations of blood, metal, and chrome.</li><li>The character subtracts a number of dice equal to half of their Cyberware Density rounded up from all dice pools requiring a Mental or Social Attribute for the remainder of the scene.</li>|
 <!-- end:cybernetic-compulsions-table -->
 
@@ -92,25 +92,29 @@ Would be helpful to only include finished ones, could have WIP ones elsewhere in
 <!-- begin:weapon-augmentations-table -->
 | Weapon | Cyberware Density | Description | Range | Mechanics |
 |--------|-----------------|-------------|-------|-----------|
-|        | 1               |             | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-|        | 1               |             | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-|        | 2               |             | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-|        | 2               |             | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-|        | 3               |             | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-| Thermal Reaper Blades | 3 | Twin thermal blades which spring out of the user's arms. | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
-|        | 4               |             | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
-|        | 4               |             | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
+| | 1 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 1 | | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 2 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 2 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 2 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 2 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to cyberware </li></ul> |
+| | 2 | | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to cyberware </li></ul> |
+| Thermal Reaper Blades | 2 | Twin thermal blades which spring out of the user's arms. | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
+| | 3 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
+| | 3 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
+| | 3 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to cyberware</li></ul> |
+| | 3 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to cyberware</li></ul> |
 <!-- end:weapon-augmentations-table -->
 
 ## Custom Augmentations
 <!-- begin:custom-augmentations-table -->
-| Description of Homebrew Cyberware | Cyberware Density |
-|------------|------------------------------|
-| Weak or niche experimental cyberware | +1 |
-| Unremarkable or common experimental cyberware | +2 |
-| Reasonably strong experimental cyberware | +3 |
-| Very strong experimental cyberware | +4 |
-| Powerful or story-altering experimental cyberware | +5 |
+| Custom Augmentation | Example Description | Cyberware Density |
+|------------|----------|--------------------|
+| Weak or niche | A +2 bonus to resist social engineering, digital illusions, or AR manipulation. | +1 |
+| Useful but unremarkable | A +2 bonus to the character's dice pool when bypassing electronic locks. | +2 |
+| Strong | Once per session, the character may reduce the difficulty of a non-combat Strength test to 1, as long as that test would not result in dealing damage to another character. | +3 |
+| Very strong | Once per session, the character may reduce the difficulty of a Strength test to 1. | +4 |
+| Story-altering | Any test in which the character has Technology in their dice pool is against a difficulty of 1. | +5 |
 <!-- end:custom-augmentations-table -->
 
 ## Loresheets 

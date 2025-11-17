@@ -1,11 +1,11 @@
 # Cyberware
 ## Augmentations
-Installed cyberware is typically mechanically represented by Augmentations.  There are many forms of Augmentations, including:
+A character's cyberware is mechanically represented by **Augmentations**.  There are many forms of Augmentations, including:
 
-- Augmentations that increase one of a character’s Attributes;
-- Neural Processors that allow for bonuses to Skills;
-- Operating Systems provide unique powers;
-- Merit Augmentations that allow for specialized abilities;
+- Attribute Augmentations, which increase one of a character’s Attributes;
+- Neural Processors, which allow for bonuses to Skills;
+- Operating Systems, which provide unique powers;
+- Merit Augmentations, which allow for specialized traits;
 - Weapon Augmentations.
 
 ### Attribute Augmentations
@@ -102,19 +102,17 @@ Weapon Augmentations are cyberware built directly into a character's body to enh
 
 Each weapon augmentation carries a Cyberware Density based on its lethality and the type of damage it deals. Low-level augmentations grant minor bonuses, while heavier, more dangerous implants can significantly increase Cyberware Density. 
 
-Weapon Augmentations may vary in Cyberware Density depending on their range and unqiue capabilities. If developing a custom Weapon Augmentation for a player, in general, follow the following criteria:
-
-- 1 level of Cyberware Density for weapons which deal +1 and +2 Aggravated Damage to mortals and Superficial Damage to vampires.
-- 2 levels of Cyberware Density for weapons which deal +3 and +4 Aggravated Damage to mortals and Superficial Damage to vampires.
-- 3 levels of Cyberware Density for weapons which deal +1 and +2 Aggravated Damage to vampires or direct Cyberware Damage.
-- 4 levels of Cyberware Density for weapons which deal +3 and +4 Aggravated Damage to vampires or direct Cyberware Damage.
-
 You can find the complete list of Weapon Augmentations in the [Tables](tables.md#weapon-augmentations) section of the sidebar.
 
 ### Custom Augmentations
 Storytellers are encouraged to experiment with their own Custom Augmentations which mimic existing or create new Disciplines, Merits, or Advantages. 
 
-Custom Augmentation's Cyberware Density will vary depending on the strength of the Merit itself in the chronicle, and it is left to Storyteller discretion whether the Cyberware Density of a custom piece of equipment needs to be increased at all during the course of the game. 
+Storytellers are also encouraged to communicate to their players that a Custom Augmentation's Cyberware Density will vary depending on the strength of the Augmentation in the chronicle, and it is left to Storyteller discretion whether the Cyberware Density of a custom piece of equipment needs to be increased or decreased at all during the course of the game. 
 
 {% include "tables.md" start="<!-- begin:custom-augmentations-table -->" end="<!-- end:custom-augmentations-table -->" %}
 
+Custom Weapon Augmentations may vary in Cyberware Density depending on their range and unqiue capabilities. If developing a custom Weapon Augmentation for a player, Storytellers should follow the following criteria:
+
+- 1 level of Cyberware Density for weapons which deal +1 or +2 Aggravated damage to mortals and Superficial Damage to vampires.
+- 2 levels of Cyberware Density for weapons which deal +3 or +4 Aggravated damage to mortals and Superficial Damage to vampires, or for weapons which deal +1 and +2 Aggravated damage to vampires, or for weapons which deal direct Cyberware Damage.
+- 3 levels of Cyberware Density for weapons which deal +3 or +4 Aggravated damage to vampires, or for weapons which deal direct Cyberware Damage.
