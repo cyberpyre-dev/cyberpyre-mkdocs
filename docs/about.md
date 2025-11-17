@@ -7,8 +7,10 @@
 
 ## Coming Soon!
 - Additional Weapon Augmentations
-- Credits, finances, and how they play into your game
+- Specific mechanics for NeurodeckOS powers
+- Mechanics for the Resource Merit, and how they relate to credits, character finances, and your game
 - Loresheets for various backgrounds
 - An Operating System which mirrors the Fortitude Discipline
 - An Augmentation which allows mortals to take damage as if they were vampires
 - An Augmentation which allows vampires to drink from a mortal without needing to spend time sealing the wound left from feeding
+- A Merit Augmentation which allows a character to have multiple Operating Systems on a single character

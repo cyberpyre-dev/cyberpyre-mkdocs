@@ -15,11 +15,13 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 ### Developer's Notes
+
 To run the server:
 - Run `mkdocs serve`
 - Go to `http://127.0.0.1:8000/`
 
 ### Theme
+
 [Material for MKDocs](https://github.com/squidfunk/mkdocs-material)
 
 #### Other Considerations
@@ -29,6 +31,7 @@ To run the server:
 [Simple Blog](https://github.com/FernandoCelmer/mkdocs-simple-blog)
 
 ### Resources
+
 [MKDocs Documentation](https://www.mkdocs.org/getting-started/)
 
 ### Installation Guide
@@ -37,3 +40,6 @@ To run the server:
 `pip install mkdocs-material`
 
 `mkdocs serve --livereload`
+
+### How to include a table 
+`{% include "tables.md" start="<!-- begin:table-name -->" end="<!-- end:table-name -->" %}`
