@@ -45,13 +45,12 @@ A character who used immunoblockers in the previous session is required to take 
 | **Military-grade** | <ul><li>Reduce a character’s Cyberware Density by 3 for the remainder of the session.</li><li>If a character who has taken military-grade immunoblockers fails to upkeep their intake of this kind of immunoblocker at the beginning of the next session, that character is assumed to have a Cyberware Density level equal to their original Cyberware Density +3 for the remainder of that session.  </li> <li>The first roll of that session in which that character utilize any cyberware will immediately cause them to suffer a **Cybernetic Compulsion**.</li>|
 
 ### Other Ways to Reduce Cyberware Density
-
 The only way to permanently reduce a character’s Cyberware Density is to have their cyberware removed, though this removal may have additional mechanical and narrative drawbacks for the character. This is particularly true for mortals, who cannot regrow lost limbs or other vital organs that were previously replaced by cyberware.
 
 ## Glitch Dice, Glitchy Criticals, and Terminal Failures
-Each time a character with cyberware compiles a dice pool (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___) which utilizes any of that cyberware, the dice pool must be augmented with **Glitch Dice**, typically represented in a dice pool with blue D10s. 
+Each time a character with cyberware compiles a dice pool (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___) which utilizes any of that cyberware, the dice pool must be augmented with **Glitch Dice**, which can be represented in a dice pool with blue D10s. 
 
-Attribute rolls, Discipline power rolls, Operating System power rolls, and any other roll which utilize a character’s installed cyberware will swap a number of normal dice with Glitch Dice equal to half their character’s Cyberware Density, rounded up.
+Attribute rolls, Operating System power rolls, and any other roll which utilize a character’s installed cyberware will swap a number of normal dice with Glitch Dice equal to half their character’s Cyberware Density, rounded up.
 
 > Ben's character is a mortal with a Cyberware Density of 5.  He is compiling a dice pool for an attack (Strength + Melee) which uses a thermal vibroblade embedded in his character's arm.  His character's Strength is 3 and their Melee is 2.  His final dice pool will consist of 5 dice, 3 of which are Glitch Dice.
 
@@ -139,7 +138,6 @@ A restrained target or a target affected by surprise only requires an attack tes
 Damaged cyberware can be repaired by a character with the right know-how, facilities, and equipment. 
 
 Characters attempting to repair cyberware should follow the rules for **Installing, Replacing, and Removing Cyberware** listed above, increasing the difficulty by 1 for each level of damage the cyberware has sustained and repairing up to two levels of damage worth of cyberware for each success greater than the margin on the Technology roll. This roll cannot repair beyond the maximum Cyberware Density of the installed cyberware.
-
 
 > A neural processor with a Cyberware Density of 3 has sustained two points of Cyberware Damage, which sets the difficulty of repairing it to 5. The character attempting the repair rolls six successes, repairing two levels worth of Cyberware Damage - this restores the two damaged chip slots back to full working capacity (though the chips contained therein were still destroyed).
 

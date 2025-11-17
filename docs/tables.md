@@ -59,7 +59,9 @@
 | Level 5 | Overload (Requires Short-Circuit) | An overwhelming overload of a target's system which can disable or damage all of a target's cyberware at once. |
 | Level 5 | I'm In | Any test in which the character has Technology in their dice pool is against a difficulty of 1. |
 
-## Merit Augmentations (More Coming Soon!)
+## Merit Augmentations
+(More Coming Soon!)
+
 | Merit | Dots | Description |
 |-------------|------|-------------|
 | Camouflage | o | Your character has had a light-refractive gloss applied to the surface of their skin. Increase your character’s Stealth Skill by 1. |
@@ -70,15 +72,24 @@
 | Subdermal Implants | o | Your character has had a respectable amount of synthetic armor plating implanted beneath their skin, covering their vital organs. Increase your character’s Armor by 1. |
 | | oo | Your character has expanded their subdermal synthetic armor plating to cross their entire body. Increase your character’s Armor by an additional 1. |
 
-## Weapon Augmentations (More Coming Soon!)
-| Weapon | Cyberware Density | Description | Mechanics |
-|-|-------------------|-------------|-----------|
-| | 1 | | +1 and +2 weapons which deal Aggravated Damage to mortals and Superficial Damage to vampires. |
-| | 2 | | +3 and +4 weapons which deal Aggravated Damage to mortals and Superficial Damage to vampires. |
-| Reaper Blades | 3 | Twin-thermal blades which spring out of the user's arms. | <ul> <li>+2 Damage</li> <li> Deal Aggravated Damage to mortals and vampires.</li></ul> |
-| | 4 | | +3 and +4 weapons which deal Aggravated Damage to vampires or direct Cyberware Damage. |
+## Weapon Augmentations
+(More Coming Soon!)
 
-## Loresheets (More Coming Soon!)
+| Weapon | Cyberware Density | Description | Range | Mechanics |
+|--------|-----------------|-------------|-------|-----------|
+|        | 1               |             | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+|        | 1               |             | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+|        | 2               |             | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+|        | 2               |             | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+|        | 3               |             | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated Damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+|        | 3               |             | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
+| Thermal Reaper Blades | 3 | Twin thermal blades which spring out of the user's arms. | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
+|        | 4               |             | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
+|        | 4               |             | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated Damage to mortals and vampires</li></ul> |
+
+## Loresheets 
+(More Coming Soon!)
+
 | Loresheet | Dots | Description |
 |-----------|------|-------------|
 | Cop | o | |

@@ -1,7 +1,7 @@
 # welcome to **byte city**
 
 ## What is **cyberpyre**?
-**cyberpyre** is an unofficial, supplemental system for **Vampire: the Masquerade - 5th Edition**, a tabletop role-playing game which is sometimes colloquially referred to by players as **V5**.
+**cyberpyre** is an unofficial, supplemental system for **Vampire: the Masquerade: 5th Edition**, a tabletop role-playing game which is sometimes colloquially referred to by players as **V5**.
 
 Within **cyberpyre**, you can expect to find:
 
@@ -36,15 +36,17 @@ The year is 2100. The blaze of the Second Inquisition, launched against Kindred 
 
 So, what now?
 
-## Kindred in the Future
+## Kindred in the Year 2100
 A lot has changed over the last century...
 
 ### Do mortals know that vampires are real?
 No. The Masquerade (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___), a series of rules which serve to hide the existence of vampires from the mortal world, is still fully enforced by the Camarilla.  
 
-That being said, in an age where body modification is not just common, but the norm, the Camarilla has done significant work to ensure that vampire media (and modifications) are plentiful.  Plenty of regular mortals walk the city streets sporting retractable fangs, blood-red eyes, and corpse-pale skin.  Thanks to advancements in cyberware and augmentations, plenty of mortals also exhibit strange powers and abilities which only a century ago would have been considered to be supernatural.  Your mobile phone may have looked to a priest in Salem during the 17th century as if it was a mirror to another world.  To you today, it just looks like Instagram.
+That being said, in an age where body modification is not just common, but the norm, the Camarilla has done significant work to ensure that vampire media (and modifications) are plentiful.  Plenty of regular mortals walk the city streets sporting retractable fangs, blood-red eyes, and corpse-pale skin.  
+
+Thanks to advancements in cyberware and augmentations, plenty of mortals also exhibit strange powers and abilities which only a century ago would have been considered to be supernatural.  Your mobile phone may have looked to a priest in Salem during the 17th century as if it was a mirror to another world.  To you today, it just looks like Instagram.
 
 ### What happens to a mortal with cyberware when they are embraced?
-Healing at the time of Embrace (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___) is based on the amount of vitae given to the target, healing the freshest wounds first and gradually healing older and more severe injuries or disabilities (missing limbs, poor eyesight, etc) based on the amount of vitae given. 
+The body of a new vampire regenerates at the time of Embrace (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___), and the degree of regeneration is based on the amount of vitae given to the target, healing the freshest wounds first and gradually healing older and more severe injuries or disabilities (such as missing limbs) based on the amount of vitae given. 
 
-The interaction that the healing properties of vitae can have with cyberware is worth mentioning - given enough vitae, the mortal's body will regrow any "missing" biological components, causing their body to expel their mortal cybernetics. Even if this fails to happen, mortal cyberware will not function in the body of a vampire unless the vampire uses Blush of Life.
+The interaction that the healing properties of vitae can have with cyberware is worth mentioning - given enough vitae, the mortal's body will regrow any "missing" biological components, causing their body to expel their mortal cybernetics. Even if this fails to happen, mortal cyberware will not function in the body of a vampire unless the vampire uses Blush of Life (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___).

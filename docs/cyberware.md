@@ -104,31 +104,35 @@ The **BerserkOS** is a small implant which involves a mix of reflex boosters and
 A character with the Berserk OS has access to Potence Discipline powers at a rate of 1 dot per 1 Cyberware Density in the Operating System acquired.  For this character, these powers are considered Operating System powers instead.
 
 ### Merit Augmentations
-Merit Augmentations are Augmentations which, while useful, are not necessarily powerful enough to warrant an immediate increase in Cyberware Density. 
+**Merit Augmentations** are Augmentations which, while useful, are not necessarily powerful enough to warrant an immediate increase in Cyberware Density. 
 
 Merit Augmentations are obtained by spending experience points, just like normal Merits (see **Vampire: the Masquerade: 5th Ed Corebook**, p.___).
 
-| Augmentation | Dots | Description |
+| Merit | Dots | Description |
 |-------------|------|-------------|
 | Camouflage | o | Your character has had a light-refractive gloss applied to the surface of their skin. Increase your character’s Stealth Skill by 1. |
 | | oo | Your character has had high-grade, light-refractive nanofibers woven into their skin. Increase your character’s Stealth Skill by an additional 1. |
 | Internal Agent | oo | Your character gains the ability to make phone calls, send messages, and hail vehicles with just their thoughts. Using this ability causes a glowing effect behind the eyes that can alert another character to your use of this ability as long as they are able to see your eyes (requiring a Wits + Awareness test at Difficulty 2 from the character observing the use of this ability). |
-| Optics | o | At a glance, you can tell exactly what another character’s current Cyberware Density is. |
+| Optics | o | At a glance, your character can tell exactly what another character’s current Cyberware Density is. |
 | | oo | At a glance, you can tell exactly what cyberware a target has installed. |
 | Subdermal Implants | o | Your character has had a respectable amount of synthetic armor plating implanted beneath their skin, covering their vital organs. Increase your character’s Armor by 1. |
 | | oo | Your character has expanded their subdermal synthetic armor plating to cross their entire body. Increase your character’s Armor by an additional 1. |
+
+You can find the complete list of Merit Augmentations in the [Tables](tables.md#merit-augmentations) section of the sidebar.
 
 ### Weapon Augmentations
 Weapon Augmentations are cyberware built directly into a character's body to enhance combat capability.
 
 Each weapon augmentation carries a Cyberware Density based on its lethality and the type of damage it deals. Low-level augmentations grant minor bonuses, while heavier, more dangerous implants can significantly increase Cyberware Density. 
 
-Cyberware weapons may vary depending on their range and unqiue capabilities, but in general:
+Weapon Augmentations may vary in Cyberware Density depending on their range and unqiue capabilities. If developing a custom Weapon Augmentation for a player, in general, follow the following criteria:
 
-- 1 level of Cyberware Density for +1 and +2 weapons which deal Aggravated Damage to mortals and Superficial Damage to vampires.
-- 2 levels of Cyberware Density for +3 and +4 weapons which deal Aggravated Damage to mortals and Superficial Damage to vampires.
-- 3 levels of Cyberware Density for +1 and +2 weapons which deal Aggravated Damage to vampires or direct Cyberware Damage.
-- 4 levels of Cyberware Density for +3 and +4 weapons which deal Aggravated Damage to vampires or direct Cyberware Damage.
+- 1 level of Cyberware Density for weapons which deal +1 and +2 Aggravated Damage to mortals and Superficial Damage to vampires.
+- 2 levels of Cyberware Density for weapons which deal +3 and +4 Aggravated Damage to mortals and Superficial Damage to vampires.
+- 3 levels of Cyberware Density for weapons which deal +1 and +2 Aggravated Damage to vampires or direct Cyberware Damage.
+- 4 levels of Cyberware Density for weapons which deal +3 and +4 Aggravated Damage to vampires or direct Cyberware Damage.
+
+You can find the complete list of Weapon Augmentations in the [Tables](tables.md#weapon-augmentations) section of the sidebar.
 
 ### Homebrewing Augmentations
 Storytellers are encouraged to experiment with their own Augmentations which mimic existing or create new Disciplines, Merits, or Advantages. 
