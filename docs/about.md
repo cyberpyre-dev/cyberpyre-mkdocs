@@ -22,3 +22,4 @@
 - An Augmentation which allows mortals to take damage as if they were vampires
 - An Augmentation which allows vampires to drink from a mortal without needing to spend time sealing the wound left from feeding
 - A Merit Augmentation which allows a character to have multiple Operating Systems on a single character
+- Robotic Companions

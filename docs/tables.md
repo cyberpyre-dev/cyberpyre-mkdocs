@@ -1,11 +1,9 @@
-<!-- Should I abstract one more layer here?
-Would be helpful to only include finished ones, could have WIP ones elsewhere in a higher dir -->
 # Tables
 ## Cyberware Density
 <!-- begin:cyberware-density-table -->
 | Cyberware Density | Effects |
 |------------------------|--------|
-| **Level 0** | <ul><li>The character has no cyberware installed.</li><li>The character cannot be affected by Social or Mental powers which are used via cyberware.</li></ul> |
+| **Level 0** | <ul><li>The character has no cyberware installed.</li></ul> |
 | **Level 1** | <ul><li>The character has minimal cyberware.</li><li>Maximum Humanity reduced by 1.</li><li>Maximum Blood Potency reduced by 1 (cannot reduce less than minimum).</li><li>+2 to dice pools that resist Social or Mental powers via cyberware.</li><li>Swap 1 normal die with 1 Glitch die in any cyberware dice pool.</li></ul> |
 | **Level 2** | <ul><li>The character has an average amount of cyberware.</li><li>Maximum Humanity reduced by 2.</li><li>Maximum Blood Potency reduced by 1 (cannot reduce less than minimum).</li><li>+1 to dice pools that resist Social or Mental powers via cyberware.</li><li>Swap 1 normal die with 1 Glitch die in any cyberware dice pool.</li></ul> |
 | **Level 3** | <ul><li>The character has slightly above average cyberware.</li><li>Maximum Humanity reduced by 3.</li><li>Maximum Blood Potency reduced by 2 (cannot reduce less than minimum).</li><li>Swap 2 normal dice with 2 Glitch dice in any cyberware dice pool.</li></ul> |
@@ -109,7 +107,7 @@ Would be helpful to only include finished ones, could have WIP ones elsewhere in
 ## Custom Augmentations
 <!-- begin:custom-augmentations-table -->
 | Custom Augmentation | Example Description | Cyberware Density |
-|------------|----------|--------------------|
+|---------------------|---------------------|-------------------|
 | Weak or niche | A +2 bonus to resist social engineering, digital illusions, or AR manipulation. | +1 |
 | Useful but unremarkable | A +2 bonus to the character's dice pool when bypassing electronic locks. | +2 |
 | Strong | Once per session, the character may reduce the difficulty of a non-combat Strength test to 1, as long as that test would not result in dealing damage to another character. | +3 |
