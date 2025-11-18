@@ -54,7 +54,11 @@ Some events (as described above) can result in a character experiencing a **Cybe
 {% include "tables.md" start="<!-- begin:cybernetic-compulsions-table -->" end="<!-- end:cybernetic-compulsions-table -->" %}
 
 ## Installing, Replacing, and Removing Cyberware
-Installing, removing, or swapping cyberware causes a character to experience Aggravated Health Damage on a one-for-one basis based on the Cyberware Density of the cyberware installed (this damage cannot be less than 1). Mortals suffer this damage due to the invasive nature of the procedure. Vampires, who typically cannot have any kind of standard body modifications installed without their bodies rejecting it (as part of their curse involves their bodies appearing as it did on the night of their Embrace), suffer this damage due the need for molten silver to permanently bond the cyberware to their bodies (see “Seal the Brand,” **Vampire: the Masquerade: Player’s Guide**; p. 99).
+Installing, replacing, and removing cyberware causes a character to experience Aggravated Health Damage on a one-for-one basis based on the Cyberware Density of the cyberware installed (this damage cannot be less than 1). 
+
+Mortals suffer this damage due to the invasive nature of the procedure. 
+
+Vampires, who typically cannot have any kind of standard body modifications installed without their bodies rejecting it (as part of their curse involves their bodies appearing as it did on the night of their Embrace), suffer this damage due the need for molten silver to permanently bond the cyberware to their bodies (see “Seal the Brand,” **Vampire: the Masquerade: Player’s Guide**; p. 99).
 
 ### Installation or Replacement of Cyberware
 Assuming they possess the proper equipment and are in a medical or laboratory setting, if a character is attempting to install or replace cyberware on another character, it requires the following tests at a difficulty equal to the Cyberware Density of the installed cyberware:
@@ -69,11 +73,9 @@ If a character is attempting to install cyberware in the field and not in a medi
 
 If any of the above tests fail, the cyberware is not installed, but the character still receives Aggravated damage equal to the Cyberware Density of the attempted install.
 
-Failing the Medicine test could result in temporary (for vampires) or permanent (for mortals) loss of Attribute dots equal to the level of Cyberware Density of the cyberware involved in the failed test. A failed Medicine test on a cybernetic arm meant to accentuate Strength could damage a Physical Attribute, whereas a failed neural processor installation could damage a Social or Mental Attribute.
-
-Failing the Technology test results in the damage (normal failure) or destruction (critical failure) of the cyberware itself. Damaged cyberware takes one point of damage for each failed roll on the margin.  This damage cannot exceed the Cyberware Density of the cyberware.
-
-Failing the Ritual roll on a vampire causes the installed cybernetics to not function properly, and they will be fully expelled from the vampire’s body like any other foreign object after a number of nights equal to the Cyberware Density of the install.
+- Failing the Medicine test could result in temporary (for vampires) or permanent (for mortals) loss of Attribute dots equal to the level of Cyberware Density of the cyberware involved in the failed test. A failed Medicine test on a cybernetic arm meant to accentuate Strength could damage a Physical Attribute, whereas a failed neural processor installation could damage a Social or Mental Attribute.
+- Failing the Technology test results in the damage (normal failure) or destruction (critical failure) of the cyberware itself. Damaged cyberware takes one point of damage for each failed roll on the margin.  This damage cannot exceed the Cyberware Density of the cyberware.
+- Failing the Ritual roll on a vampire causes the installed cybernetics to not function properly, and they will be fully expelled from the vampire’s body like any other foreign object after a number of nights equal to the Cyberware Density of the install.
 
 Removing installed cyberware will increase the character's maximum Humanity on a one-for-one basis per level of Cyberware Density of the removed modification, but will not increase the character's current Humanity level. 
 

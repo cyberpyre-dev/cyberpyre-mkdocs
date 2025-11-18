@@ -113,6 +113,6 @@ Storytellers are also encouraged to communicate to their players that a Custom A
 
 Custom Weapon Augmentations may vary in Cyberware Density depending on their range and unqiue capabilities. If developing a custom Weapon Augmentation for a player, Storytellers should follow the following criteria:
 
-- 1 level of Cyberware Density for weapons which deal +1 or +2 Aggravated damage to mortals and Superficial Damage to vampires.
-- 2 levels of Cyberware Density for weapons which deal +3 or +4 Aggravated damage to mortals and Superficial Damage to vampires, or for weapons which deal +1 and +2 Aggravated damage to vampires, or for weapons which deal direct Cyberware Damage.
+- 1 level of Cyberware Density for weapons which deal +1 or +2 Aggravated damage to mortals and Superficial damage to vampires.
+- 2 levels of Cyberware Density for weapons which deal +3 or +4 Aggravated damage to mortals and Superficial damage to vampires, or for weapons which deal +1 and +2 Aggravated damage to vampires, or for weapons which deal direct Cyberware Damage.
 - 3 levels of Cyberware Density for weapons which deal +3 or +4 Aggravated damage to vampires, or for weapons which deal direct Cyberware Damage.
