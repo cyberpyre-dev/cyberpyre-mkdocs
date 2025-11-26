@@ -1,3 +1,5 @@
+Site is live at http://cyberpyre-dev.github.io/cyberpyre-mkdocs/.
+
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Commands
