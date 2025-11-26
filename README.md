@@ -39,7 +39,10 @@ To run the server:
 `pip install mkdocs`
 `pip install mkdocs-material`
 
+### Running
+`venv-up in parent dir`
 `mkdocs serve --livereload`
+`venv-down in parent dir`
 
 ### How to include a table 
 `{% include "tables.md" start="<!-- begin:table-name -->" end="<!-- end:table-name -->" %}`

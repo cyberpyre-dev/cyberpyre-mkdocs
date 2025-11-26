@@ -48,7 +48,7 @@
 ## Neural Processors
 <!-- begin:neural-processor-table -->
 | Neural Processor | Details |
-|-----------------|---------|
+|------------------|---------|
 | Neural Processor Mk. 1 | 1 Cyberware Density; 1 available chip slot; up to +1 bonus |
 | Neural Processor Mk. 2 | 2 Cyberware Density; 2 available chip slots; up to +2 bonus |
 | Neural Processor Mk. 3 | 3 Cyberware Density; 3 available chip slots; up to +3 bonus |
@@ -68,7 +68,7 @@
 | Level 3 | CVC (Requires Wiretap) | Successfully hacking into a network lets you see through cameras or cybernetic optics connected to that network. |
 | Level 4 | Short-Circuit | A localized overload of a target's system which directly damages electronics, or a portion of the target's cyberware. |
 | Level 5 | Overload (Requires Short-Circuit) | An overwhelming overload of a target's system which can disable or damage all of a target's cyberware at once. |
-| Level 5 | I'm In | Any test in which the character has Technology in their dice pool is against a difficulty of 1. |
+| Level 5 | I'm In | Any non-combat test in which the character has Technology in their dice pool is against a difficulty of 1. |
 <!-- end:os-neurodeck-powers-table -->
 
 ## Merit Augmentations
@@ -90,16 +90,16 @@
 <!-- begin:weapon-augmentations-table -->
 | Weapon | Cyberware Density | Description | Range | Mechanics |
 |--------|-----------------|-------------|-------|-----------|
-| | 1 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-| | 1 | | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| Monowire | 1 | A wire garrote that extends from the user's body. | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| Reaper Blades | 1 | Twin blades which spring out of the user's arms. | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
 | | 2 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-| | 2 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
-| | 2 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
+| | 2 | | Ranged | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
 | | 2 | | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to cyberware </li></ul> |
 | | 2 | | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to cyberware </li></ul> |
+| Thermal Monowire | 2 | A thermal wire garrote that extends from the user's body. | Melee | <ul><li>+1 Damage</li><li>Deals Aggravated damage to mortals</li><li>Deals Superficial damage to vampires</li></ul> |
 | Thermal Reaper Blades | 2 | Twin thermal blades which spring out of the user's arms. | Melee | <ul><li>+2 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
 | | 3 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
-| | 3 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals and vampires</li></ul> |
+| Shotgun | 3 | A shotgun mechanism embedded in one of the user's limbs. | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to mortals and Superficial damage to vampires</li><li>If using Incindiary rounds, deals Aggravated damage to vampires</li></ul> |
 | | 3 | | Melee | <ul><li>+3 Damage</li><li>Deals Aggravated damage to cyberware</li></ul> |
 | | 3 | | Melee | <ul><li>+4 Damage</li><li>Deals Aggravated damage to cyberware</li></ul> |
 <!-- end:weapon-augmentations-table -->
